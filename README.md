@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Data Engineer at YaKwetu Online Limted**
+- 🔭 I’m currently working as a **Data Engineer at NCBA Group && DevSecOps Engineer at Old Mutual Group**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **waruigwanjiru@gmail.com**
 
-- ⚡ Fun facts  **I love the sound of turbo blow-off valves, I love driving, I have two toy cars**
+- ⚡ Fun facts  **Using laziness as a motivation for optimization and efficiency**
 
              
 
