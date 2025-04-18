@@ -42,16 +42,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/The-Algorist/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Warui Wanjiru's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Algorist&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/byteS1inger/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Warui Wanjiru's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=byteS1inger&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/The-Algorist/github-readme-stats"><img alt="Warui Wanjiru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=The-Algorist&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/The-Algorist/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Algorist&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/byteS1inger/github-readme-stats"><img alt="Warui Wanjiru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=byteS1inger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/byteS1inger/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Algorist&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/The-Algorist/github-readme-activity-graph"><img alt="Warui Wanjiru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=The-Algorist&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/byteS1inger/github-readme-activity-graph"><img alt="Warui Wanjiru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=byteS1inger&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -75,4 +75,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=The-Algorist">
 </a>
-<a href="https://github.com/The-Algorist?tab=followers"><img src="https://img.shields.io/github/followers/The-Algorist?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/byteS1inger?tab=followers"><img src="https://img.shields.io/github/followers/byteS1inger?label=Followers&style=social" alt="GitHub Badge"></a>
